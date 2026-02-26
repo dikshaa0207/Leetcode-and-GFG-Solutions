@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Dynamic Programming
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0523-continuous-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
