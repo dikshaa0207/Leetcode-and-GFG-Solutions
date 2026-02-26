@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0875-koko-eating-bananas](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
