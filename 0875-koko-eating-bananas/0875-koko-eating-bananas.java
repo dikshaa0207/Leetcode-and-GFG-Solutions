@@ -1,16 +1,11 @@
 class Solution {
-
     public int minEatingSpeed(int[] piles, int h) {
         int st = 1;
         int end = 0;
-        // Find maximum pile 
         for (int i = 0; i < piles.length; i++) {
             end = Math.max(end, piles[i]);
         }
-
         int res = -1;
-
-        // Binary Search
         while (st <= end) {
             int mid = st + (end - st) / 2;
 
@@ -26,7 +21,6 @@ class Solution {
     public boolean valid(int[] piles, int mid, int h) {
         int totalHours = 0;
         for (int i = 0; i < piles.length; i++) {
-            // ceil(piles[i] / mid)
             totalHours += (piles[i] + mid - 1) / mid;
             if (totalHours > h) {
                 return false;
