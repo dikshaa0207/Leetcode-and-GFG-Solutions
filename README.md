@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0078-subsets) |
 | [0410-split-array-largest-sum](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -60,9 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0078-subsets) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
