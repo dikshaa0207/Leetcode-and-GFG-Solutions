@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0078-subsets) |
+| [0198-house-robber](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
