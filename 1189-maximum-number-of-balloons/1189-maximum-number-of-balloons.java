@@ -15,10 +15,11 @@ class Solution {
         l = l / 2;
         o = o / 2;
         int ans = b;
-        if (a < ans) ans = a;
-        if (l < ans) ans = l;
-        if (o < ans) ans = o;
-        if (n < ans) ans = n;
+        if ( a < ans) ans = a;
+        if ( l < ans) ans = l;
+        if ( o < ans) ans = o;
+        if ( n < ans) ans = n;
+
         return ans;
     }
 }
