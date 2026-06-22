@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0523-continuous-subarray-sum](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
