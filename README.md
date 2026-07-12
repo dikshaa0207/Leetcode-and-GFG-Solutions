@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1331-rank-transform-of-an-array](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0523-continuous-subarray-sum](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0047-permutations-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Memoization
 |  |
 | ------- |
