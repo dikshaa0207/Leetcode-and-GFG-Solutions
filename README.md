@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0047-permutations-ii) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/1291-sequential-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dikshaa0207/Leetcode-and-GFG-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
